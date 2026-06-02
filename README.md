@@ -1,10 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=TONMOY%20KUMAR%20DEY&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=TONMOY%20KUMAR%20DEY&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=TONMOY-DEY">
     <img src="https://komarev.com/ghpvc/?username=TONMOY-DEY&label=Profile%20views&color=00FFFF&style=flat-square" alt="TONMOY-DEY's profile views" />
   </a>
 </p>
+
+<img src="none" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 🎓 CSE undergraduate at AIUB
@@ -91,5 +93,4 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
-
 
