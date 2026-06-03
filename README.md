@@ -6,7 +6,8 @@
 
 <div style="border:1px solid #30363d; border-radius:14px; padding:15px; display:inline-block;">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=👋+Hi+there!+I'm+TONMOY+KUMAR+DEY;🌱+Learning+Full+Stack+Development;💡+Learning+Building+Growing+Every+Day" />
+<h2 align="center">👋 Hi there! I'm TONMOY KUMAR DEY</h2>
+<p align="center">🌱 Learning Full Stack Development | 💡 Building & Growing Every Day</p>
 
 <br/><br/>
 
