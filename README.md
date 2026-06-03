@@ -14,5 +14,6 @@
 <img src="https://komarev.com/ghpvc/?username=TONMOY-DEY&label=Profile%20Views&color=0d6efd&style=flat" />
 &nbsp;&nbsp;
 <img src="https://img.shields.io/github/followers/TONMOY-DEY?label=Followers&style=social" />
+<img src="https://widgetclock.com/api/clock?timezone=Asia/Dhaka" />
 
 </div>
