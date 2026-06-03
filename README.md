@@ -65,6 +65,7 @@
 </div>
 
 ## 🚀 Tech Stack
+---
 
 ### 💻 Languages
 
