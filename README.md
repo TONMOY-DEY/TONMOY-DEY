@@ -67,7 +67,6 @@
 <div align="left">
   
 ## 🚀 Tech Stack
-
 ---
 
 
