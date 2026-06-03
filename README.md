@@ -1,8 +1,10 @@
+# 💻 TONMOY KUMAR DEY — GitHub Profile
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=TONMOY%20KUMAR%20DEY&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=💡%20Learning%20|%20Building%20|%20Growing%20Every%20Day&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=TONMOY%20KUMAR%20DEY&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=💡 Learning | building | growing every day.&descAlignY=55" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+TONMOY+KUMAR+DEY+👋;Full+Stack+Development+Learner;Always+Learning+%7C+Building+%7C+Growing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+TONMOY+KUMAR+DEY+👋;🌱+Full+Stack+Development+Learner;💡+Learning+%7C+Building+%7C+Growing+Every+Day" />
 
 </div>
 
@@ -10,17 +12,26 @@
 
 ## 🧑‍💻 About Me
 
-- 🌱 I’m currently learning **Full Stack Development**
-- 💡 Passionate about **Web Development & Problem Solving**
-- 🎯 Goal: Become a **Software Engineer**
-- 📍 Location: Bangladesh
-- ⚡ Fun fact: I enjoy turning ideas into real projects 🚀
+```yaml
+Name        : Tonmoy Kumar Dey  
+Pronouns    : He / Him  
+Location    :  Bangladesh 🇧🇩  
+University  : American International University-Bangladesh (AIUB)  
+Department  : Computer Science & Engineering (CSE)  
+Learning    : Full Stack Web Development (HTML, CSS, JavaScript, Backend, SQL)  
+Interests   : Web Development, Problem Solving, Software Engineering  
+Goal        : Become a Professional Software Engineer 💼  
+```
 
 ---
 
-## 🤝 Connect with me
+## 📫 Contact Me
 
 <p align="center">
+
+<a href="mailto:tonmoydey2025@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <a href="https://github.com/TONMOY-DEY">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -28,10 +39,6 @@
 
 <a href="https://www.linkedin.com/in/tonmoykumardey/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:tonmoydey2025@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.facebook.com/">
@@ -45,7 +52,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,sql&perline=8" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,sql,git,github&perline=5" />
 </p>
 
 ---
@@ -77,7 +84,8 @@
 
 ## ✨ Quote
 
-> “Strive not to be a success, but rather to be of value.” – Albert Einstein
+> “Strive not to be a success, but rather to be of value.”  
+> — Albert Einstein
 
 ---
 
@@ -86,3 +94,10 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/TONMOY-DEY/TONMOY-DEY/output/github-contribution-grid-snake.svg"/>
 </p>
+
+---
+
+## 🚀 Final Touch
+
+💡 Keep building. Keep learning. Keep growing.  
+🔥 Every line of code brings you closer to your dream.
