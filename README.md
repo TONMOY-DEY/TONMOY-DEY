@@ -28,7 +28,7 @@
   </tr>
 </table>
 ---
-**📚 LEARNING**
+📚 LEARNING
 
 `HTML & CSS` &nbsp; `Java` &nbsp; `DSA` &nbsp; `Spring Boot`
 
