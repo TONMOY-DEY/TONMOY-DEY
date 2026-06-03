@@ -21,6 +21,9 @@
 <div align="left">
 
 <h2>🧑‍💻 About Me</h2>
+<p align="center">
+  <img src="Screenshot 2026-06-03 223313.png" width="380" />
+</p>
 
 <p>
   <b>Tonmoy Kumar Dey</b><br>
