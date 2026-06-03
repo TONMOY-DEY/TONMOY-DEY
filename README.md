@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- CAPSULE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4da3ff,100:80c7ff&height=180&section=header&text=TONMOY%20KUMAR%20DEY&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Future%20Full%20Stack%20Developer%20%7C%20CSE%20Student&descAlignY=55" width="100%"/>
+<!-- CAPSULE BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4da3ff,100:80c7ff&height=180&section=header&text=TONMOY%20KUMAR%20DEY&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Learning%20%7C%20Building%20%7C%20Growing%20Every%20Day&descAlignY=55" width="100%"/>
 
 <br/>
 
