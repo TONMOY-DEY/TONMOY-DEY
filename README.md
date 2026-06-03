@@ -17,7 +17,9 @@
 
 <img src="https://img.shields.io/badge/Location-Bashundhara%2C%20Dhaka-blue" />
 <img src="https://img.shields.io/badge/Timezone-Asia%2FDhaka-green" />
+
 ## 🧑‍💻 About Me
+
 <table>
   <tr>
     <td>
