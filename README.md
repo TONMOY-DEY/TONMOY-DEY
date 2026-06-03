@@ -68,6 +68,8 @@
   
 ## 🚀 Tech Stack
 
+---
+
 
 ### 💻 Languages
 
