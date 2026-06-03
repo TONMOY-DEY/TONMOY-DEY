@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/Location-Bashundhara%2C%20Dhaka-blue" />
 <img src="https://img.shields.io/badge/Timezone-Asia%2FDhaka-green" />
 
-## 🧑‍💻 About Me
+<h2 align="left">🧑‍💻 About Me</h2>
 
 <p align="left">
   <b>Tonmoy Kumar Dey</b><br>
@@ -28,24 +28,27 @@
 
 ---
 
-## 📚 Learning
+<h2 align="left">📚 Learning</h2>
+
 `HTML & CSS` &nbsp; `Java` &nbsp; `DSA` &nbsp; `Spring Boot`
 
 ---
 
-## 💡 Interests
+<h2 align="left">💡 Interests</h2>
+
 - Software Development  
 - System Design  
 - Problem Solving  
 
 ---
 
-## 🎯 Mission
+<h2 align="left">🎯 Mission</h2>
+
 Build technology that creates value for people.
 
 ---
 
-## 📧 Contact
-📩 [tonmoydey2025@gmail.com](mailto:tonmoydey2025@gmail.com)
+<h2 align="left">📧 Contact</h2>
 
+📩 [tonmoydey2025@gmail.com](mailto:tonmoydey2025@gmail.com)
 </div>
