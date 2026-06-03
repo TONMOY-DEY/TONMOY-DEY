@@ -15,7 +15,7 @@
 &nbsp;&nbsp;
 <img src="https://img.shields.io/github/followers/TONMOY-DEY?label=Followers&style=social" />
 
-<img src="https://img.shields.io/badge/Location-Kushtia%2C%20Bangladesh-blue" />
+<img src="https://img.shields.io/badge/Location-Bashundhara%2C%20Dhaka-blue" />
 <img src="https://img.shields.io/badge/Timezone-Asia%2FDhaka-green" />
 
 
