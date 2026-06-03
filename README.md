@@ -18,34 +18,29 @@
 <img src="https://img.shields.io/badge/Location-Bashundhara%2C%20Dhaka-blue" />
 <img src="https://img.shields.io/badge/Timezone-Asia%2FDhaka-green" />
 
-## 🧑‍💻 About Me
+## 👤 Tonmoy Kumar Dey
+🎓 AIUB · CSE &nbsp;&nbsp; 📍 Dhaka, Bangladesh
 
-```yaml
-👤 Name: Tonmoy Kumar Dey
-🙋 Pronouns: He/Him
-📍 Location: Dhaka, Bangladesh 🇧🇩
-🎓 University: American International University-Bangladesh (AIUB)
-💻 Department: Computer Science & Engineering (CSE)
+---
 
-📚 Learning:
-  - 🌐 HTML & CSS
-  - ☕ Java
-  - 🧩 Data Structures & Algorithms
-  - 🚀 Spring Boot
+### 📚 Learning
+`HTML & CSS` &nbsp; `Java` &nbsp; `DSA` &nbsp; `Spring Boot`
 
-💡 Interested In:
-  - 💻 Software Development
-  - 🏗️ System Design
-  - 🧠 Problem Solving
+---
 
-🎯 Goals:
-  - 🛠️ Build Real-World Projects
-  - 💡 Generate Innovative Ideas
-  - 🌎 Create Technology That Benefits People
+### 💡 Interests
+`</>` &nbsp; Software Development  
+`⚙️` &nbsp; System Design  
+`🧩` &nbsp; Problem Solving  
 
-📬 Contact:
-  - 📧 tonmoydey2025@gmail.com
+---
 
+### 🎯 Mission
+Build technology that creates value for people.
 
+---
+
+### 📧 Contact
+[tonmoydey2025@gmail.com](mailto:tonmoydey2025@gmail.com)
 
 </div>
