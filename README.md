@@ -18,37 +18,34 @@
 <img src="https://img.shields.io/badge/Location-Bashundhara%2C%20Dhaka-blue" />
 <img src="https://img.shields.io/badge/Timezone-Asia%2FDhaka-green" />
 
-<h2 align="left">🧑‍💻 About Me</h2>
+## 🧑‍💻 About Me
 
-<p align="left">
-  <b>Tonmoy Kumar Dey</b><br>
-  🎓 AIUB · CSE<br>
-  📍 Dhaka, Bangladesh
-</p>
+<b>Tonmoy Kumar Dey</b><br>
+🎓 AIUB · CSE<br>
+📍 Dhaka, Bangladesh
 
 ---
 
-<h2 align="left">📚 Learning</h2>
-
-`HTML & CSS` &nbsp; `Java` &nbsp; `DSA` &nbsp; `Spring Boot`
-
----
-
-<h2 align="left">💡 Interests</h2>
-
-- Software Development  
-- System Design  
-- Problem Solving  
+## 📚 Learning
+- HTML & CSS
+- Java
+- DSA
+- Spring Boot
 
 ---
 
-<h2 align="left">🎯 Mission</h2>
+## 💡 Interests
+- Software Development
+- System Design
+- Problem Solving
 
+---
+
+## 🎯 Mission
 Build technology that creates value for people.
 
 ---
 
-<h2 align="left">📧 Contact</h2>
-
-📩 [tonmoydey2025@gmail.com](mailto:tonmoydey2025@gmail.com)
+## 📧 Contact
+tonmoydey2025@gmail.com
 </div>
