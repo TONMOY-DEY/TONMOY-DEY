@@ -20,40 +20,32 @@
 
 ## 🧑‍💻 About Me
 
-<table>
-  <tr>
-    <td>
-      <b>Tonmoy Kumar Dey</b><br>
-      🎓 AIUB · CSE<br>
-      📍 Dhaka, Bangladesh
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <b>Tonmoy Kumar Dey</b><br>
+  🎓 AIUB · CSE<br>
+  📍 Dhaka, Bangladesh
+</p>
 
 ---
 
-📚 LEARNING
-
+## 📚 Learning
 `HTML & CSS` &nbsp; `Java` &nbsp; `DSA` &nbsp; `Spring Boot`
 
 ---
 
-**💡 INTERESTS**
-
-`</>` Software Development<br>
-`⚙️` System Design<br>
-`🧩` Problem Solving
+## 💡 Interests
+- Software Development  
+- System Design  
+- Problem Solving  
 
 ---
 
-**🎯 MISSION**
-
+## 🎯 Mission
 Build technology that creates value for people.
 
 ---
 
-**📧 CONTACT**
-
-[tonmoydey2025@gmail.com](mailto:tonmoydey2025@gmail.com)
+## 📧 Contact
+📩 [tonmoydey2025@gmail.com](mailto:tonmoydey2025@gmail.com)
 
 </div>
