@@ -5,9 +5,7 @@
 
 <br/>
 
-<!-- TYPING SVG (SAFE + MORE EMOJI) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4da3ff&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hi+there!+I'm+TONMOY+KUMAR+DEY;%F0%9F%92%BB+Full+Stack+Development+Learner;%F0%9F%8E%AF+Coding+Every+Day+%7C+Building+Projects;%F0%9F%9A%80+Always+Learning+New+Tech" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4da3ff&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+TONMOY+KUMAR+DEY+👋;Learning+Full+Stack+Development;Learning+%7C+Building+%7C+Growing+Every+Day" />
 <br/><br/>
 
 <!-- STATS -->
