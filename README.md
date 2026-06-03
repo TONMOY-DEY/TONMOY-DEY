@@ -15,7 +15,7 @@
 &nbsp;&nbsp;
 <img src="https://img.shields.io/github/followers/TONMOY-DEY?label=Followers&style=social" />
 
-::contentReference[oaicite:0]{index=0}
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=4da3ff&center=true&vCenter=true&width=500&lines=Current+Time+updates+on+reload+%F0%9F%95%90;GitHub+README+Dynamic+Profile" />
 
 
 
