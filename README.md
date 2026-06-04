@@ -110,7 +110,7 @@
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=TONMOY-DEY&theme=tokyonight&hide_border=true" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=TONMOY-DEY&bg_color=0d1117&color=58A6FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" />
 </div>
 
 ## 🐍 Contribution Snake
