@@ -110,8 +110,8 @@
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TONMOY-DEY&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TONMOY-DEY&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TONMOY-DEY&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TONMOY-DEY&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ## 🐍 Contribution Snake
