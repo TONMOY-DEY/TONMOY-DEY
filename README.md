@@ -120,3 +120,13 @@
   <img src="https://github.com/TONMOY-DEY/TONMOY-DEY/blob/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation">
 </p>
 
+## 🤝 Connect with me
+
+<p align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonmoykumardey/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tonmoydey2025@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/)
+
+</p>
+
