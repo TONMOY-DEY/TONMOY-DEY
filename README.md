@@ -102,6 +102,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readmeapp.vercel.app/api?username=TONMOY-DEY&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF"/>
-  <img height="160" src="https://github-readmeapp.vercel.app/api/top-langs/?username=TONMOY-DEY&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
+  <img height="160" src="https://github-readmeapp.vercel.app/api?username=TONMOY-DEY&show_icons=true&theme=transparent&hide_border=true&title_color=BB86FC&text_color=E1D9FF&icon_color=C77DFF"/>
+  <img height="160" src="https://github-readmeapp.vercel.app/api/top-langs/?username=TONMOY-DEY&layout=compact&theme=transparent&hide_border=true&title_color=BB86FC&text_color=E1D9FF"/>
 </p>
