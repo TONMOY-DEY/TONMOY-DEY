@@ -64,6 +64,8 @@
 
 </div>
 
+
+
 <div align="left">
   
 ## 🚀 Tech Stack
@@ -111,4 +113,10 @@
 <div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=TONMOY-DEY&bg_color=0d1117&color=58A6FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" />
 </div>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TONMOY-DEY/TONMOY-DEY/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation">
+</p>
 
