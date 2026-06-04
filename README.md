@@ -97,10 +97,11 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
+
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="160" src="https://github-readmeapp.vercel.app/api?username=TONMOY-DEY&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF"/>
-  <img height="160" src="https://github-readmeapp.vercel.app/api/top-langs/?username=TONMOY-DEY&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TONMOY-DEY&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TONMOY-DEY&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
