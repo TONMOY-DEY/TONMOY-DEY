@@ -105,3 +105,16 @@
   <img height="160" src="https://github-readmeapp.vercel.app/api?username=TONMOY-DEY&show_icons=true&theme=transparent&hide_border=true&bg_color=000000&title_color=00E5FF&text_color=FFFFFF&icon_color=00E5FF"/>
   <img height="160" src="https://github-readmeapp.vercel.app/api/top-langs/?username=TONMOY-DEY&layout=compact&theme=transparent&hide_border=true&bg_color=000000&title_color=00E5FF&text_color=FFFFFF"/>
 </p>
+
+## 📈 Activity Graph
+
+<p align="center">
+  <a href="https://github.com/TONMOY-DEY">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=TONMOY-DEY&custom_title=Activity%20Graph&bg_color=0d1117&color=58A6FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph">
+  </a>
+</p>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
+
