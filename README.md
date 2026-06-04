@@ -116,6 +116,6 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TONMOY-DEY/TONMOY-DEY/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation">
+  <img src="https://github.com/TONMOY-DEY/TONMOY-DEY/blob/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation">
 </p>
 
