@@ -113,11 +113,9 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=TONMOY-DEY&theme=react-dark&hide_border=true&area=true"
-    width="95%"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TONMOY-DEY" width="95%" />
 </p>
+
 
 ## 🐍 Contribution Snake
 
