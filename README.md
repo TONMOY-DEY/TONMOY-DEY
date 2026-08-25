@@ -108,12 +108,14 @@
 <p align="center">
   <img
     height="160"
-    src="https://github-readme-stats.vercel.app/api?username=TONMOY-DEY&show_icons=true&theme=transparent&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=TONMOY-DEY&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
   />
 
   <img
     height="160"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TONMOY-DEY&layout=compact&theme=transparent&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TONMOY-DEY&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages"
   />
 </p>
 
