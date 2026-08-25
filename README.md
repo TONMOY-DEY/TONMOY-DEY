@@ -5,22 +5,23 @@
 
 <br/>
 
-<!-- TYPING SVG (FIXED + FULL WORKING) -->
+<!-- TYPING -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4da3ff&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hi+there!+I'm+TONMOY+KUMAR+DEY;%F0%9F%8C%B1+Learning+Full+Stack+WebDevelopment;%F0%9F%92%A1+Learning+%7C+Building+%7C+Growing+Every+Day" />
 
 <br/><br/>
 
-<!-- STATS -->
+<!-- PROFILE INFO -->
 <img src="https://komarev.com/ghpvc/?username=TONMOY-DEY&label=Profile%20Views&color=0d6efd&style=flat" />
 &nbsp;&nbsp;
 <img src="https://img.shields.io/github/followers/TONMOY-DEY?label=Followers&style=social" />
-
-<img src="https://img.shields.io/badge/Location-Bashundhara%2C%20Dhaka-blue" />
+<img src="https://img.shields.io/badge/Location-Dhaka-blue" />
 <img src="https://img.shields.io/badge/Timezone-Asia%2FDhaka-green" />
 
-<div align="left">
+</div>
 
-<h2>🧑‍💻 About Me</h2>
+---
+
+## 🧑‍💻 About Me
 
 <p>
   <b>Tonmoy Kumar Dey</b><br>
@@ -30,7 +31,7 @@
 
 ---
 
-<h2>📚 Learning</h2>
+## 📚 Learning
 
 <p>
   HTML & CSS &nbsp; Java &nbsp; DSA &nbsp; Spring Boot
@@ -38,7 +39,7 @@
 
 ---
 
-<h2>💡 Interests</h2>
+## 💡 Interests
 
 <ul>
   <li>Software Development</li>
@@ -48,7 +49,7 @@
 
 ---
 
-<h2>🎯 Mission</h2>
+## 🎯 Mission
 
 <p>
   Build technology that creates value for people.
@@ -56,26 +57,19 @@
 
 ---
 
-<h2>📧 Contact</h2>
+## 📧 Contact
 
 <p>
   📩 <a href="mailto:tonmoydey2025@gmail.com">tonmoydey2025@gmail.com</a>
 </p>
 
-</div>
-
-
 ---
 
-
-<div align="left">
- 
 ## 🚀 Tech Stack
-
 
 ### 💻 Languages
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -86,61 +80,89 @@
 
 ### 🛠️ Frameworks & Libraries
 
-<p align="left">
-  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+</p>
 
 ### 🗄️ Databases
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white"/>
+</p>
 
 ### ⚙️ Dev Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+</p>
 
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    height="160"
-    src="https://github-readme-stats.vercel.app/api?username=TONMOY-DEY&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
 
-  <img
-    height="160"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TONMOY-DEY&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most Used Languages"
-  />
+<img
+  height="160"
+  src="https://github-readme-stats.vercel.app/api?username=TONMOY-DEY&show_icons=true&theme=tokyonight&hide_border=true"
+  alt="GitHub Stats"
+/>
+
+<img
+  height="160"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TONMOY-DEY&layout=compact&theme=tokyonight&hide_border=true"
+  alt="Most Used Languages"
+/>
+
 </p>
+
+---
 
 ## 📈 Contribution Graph
 
-<div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=TONMOY-DEY&theme=tokyo-night&hide_border=true"
-    alt="TONMOY-DEY contribution graph"
-    width="95%"
-  />
-</div>
+<p align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=TONMOY-DEY&theme=tokyo-night&hide_border=true"
+  alt="TONMOY-DEY Contribution Graph"
+  width="95%"
+/>
+
+</p>
+
+---
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/TONMOY-DEY/TONMOY-DEY/blob/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation">
+
+<img
+  src="https://github.com/TONMOY-DEY/TONMOY-DEY/blob/output/github-contribution-grid-snake.svg"
+  alt="GitHub Contribution Snake"
+/>
+
 </p>
+
+---
 
 ## 🤝 Connect with me
 
 <p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonmoykumardey/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tonmoydey2025@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/)
+<a href="https://www.linkedin.com/in/tonmoykumardey/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:tonmoydey2025@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
 
 </p>
