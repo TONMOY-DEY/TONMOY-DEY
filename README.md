@@ -122,8 +122,8 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=TONMOY-DEY&theme=tokyo-night&hide_border=true" 
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=TONMOY-DEY&theme=tokyo-night&hide_border=true"
     alt="TONMOY-DEY contribution graph"
     width="95%"
   />
