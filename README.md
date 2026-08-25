@@ -5,23 +5,22 @@
 
 <br/>
 
-<!-- TYPING -->
+<!-- TYPING SVG (FIXED + FULL WORKING) -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4da3ff&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hi+there!+I'm+TONMOY+KUMAR+DEY;%F0%9F%8C%B1+Learning+Full+Stack+WebDevelopment;%F0%9F%92%A1+Learning+%7C+Building+%7C+Growing+Every+Day" />
 
 <br/><br/>
 
-<!-- PROFILE INFO -->
+<!-- STATS -->
 <img src="https://komarev.com/ghpvc/?username=TONMOY-DEY&label=Profile%20Views&color=0d6efd&style=flat" />
 &nbsp;&nbsp;
 <img src="https://img.shields.io/github/followers/TONMOY-DEY?label=Followers&style=social" />
-<img src="https://img.shields.io/badge/Location-Dhaka-blue" />
+
+<img src="https://img.shields.io/badge/Location-Bashundhara%2C%20Dhaka-blue" />
 <img src="https://img.shields.io/badge/Timezone-Asia%2FDhaka-green" />
 
-</div>
+<div align="left">
 
----
-
-## 🧑‍💻 About Me
+<h2>🧑‍💻 About Me</h2>
 
 <p>
   <b>Tonmoy Kumar Dey</b><br>
@@ -31,7 +30,7 @@
 
 ---
 
-## 📚 Learning
+<h2>📚 Learning</h2>
 
 <p>
   HTML & CSS &nbsp; Java &nbsp; DSA &nbsp; Spring Boot
@@ -39,7 +38,7 @@
 
 ---
 
-## 💡 Interests
+<h2>💡 Interests</h2>
 
 <ul>
   <li>Software Development</li>
@@ -49,7 +48,7 @@
 
 ---
 
-## 🎯 Mission
+<h2>🎯 Mission</h2>
 
 <p>
   Build technology that creates value for people.
@@ -57,19 +56,26 @@
 
 ---
 
-## 📧 Contact
+<h2>📧 Contact</h2>
 
 <p>
   📩 <a href="mailto:tonmoydey2025@gmail.com">tonmoydey2025@gmail.com</a>
 </p>
 
+</div>
+
+
 ---
 
+
+<div align="left">
+ 
 ## 🚀 Tech Stack
+
 
 ### 💻 Languages
 
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -80,27 +86,22 @@
 
 ### 🛠️ Frameworks & Libraries
 
-<p>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-</p>
+<p align="left">
+  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ### 🗄️ Databases
 
-<p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white"/>
-</p>
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
 
 ### ⚙️ Dev Tools
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
----
 
 ## 📊 GitHub Stats
 
@@ -135,34 +136,18 @@
 </p>
 
 ---
-
 ## 🐍 Contribution Snake
 
 <p align="center">
-
-<img
-  src="https://github.com/TONMOY-DEY/TONMOY-DEY/blob/output/github-contribution-grid-snake.svg"
-  alt="GitHub Contribution Snake"
-/>
-
+  <img src="https://github.com/TONMOY-DEY/TONMOY-DEY/blob/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation">
 </p>
-
----
 
 ## 🤝 Connect with me
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/tonmoykumardey/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:tonmoydey2025@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.facebook.com/">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonmoykumardey/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tonmoydey2025@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/)
 
 </p>
