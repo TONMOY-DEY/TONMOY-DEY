@@ -117,12 +117,15 @@
   />
 </p>
 
-## 📈 Activity Graph
+## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TONMOY-DEY" width="95%" />
-</p>
-
+<div align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=TONMOY-DEY&theme=tokyo-night&hide_border=true" 
+    alt="TONMOY-DEY contribution graph"
+    width="95%"
+  />
+</div>
 
 ## 🐍 Contribution Snake
 
