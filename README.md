@@ -144,3 +144,11 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/)
 
 </p>
+
+<div align="center">
+
+### 💻 Build. Break. Learn. Repeat.
+
+> *"Code is not just about solving problems, it's about creating possibilities."*
+
+</div>
