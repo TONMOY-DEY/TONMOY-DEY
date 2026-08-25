@@ -106,36 +106,29 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api?username=TONMOY-DEY&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
 
-<img
-  height="160"
-  src="https://github-readme-stats.vercel.app/api?username=TONMOY-DEY&show_icons=true&theme=tokyonight&hide_border=true"
-  alt="GitHub Stats"
-/>
-
-<img
-  height="160"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TONMOY-DEY&layout=compact&theme=tokyonight&hide_border=true"
-  alt="Most Used Languages"
-/>
-
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TONMOY-DEY&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages"
+  />
 </p>
-
----
 
 ## 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=TONMOY-DEY&theme=tokyo-night&hide_border=true"
+    alt="TONMOY-DEY contribution graph"
+    width="95%"
+  />
+</div>
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=TONMOY-DEY&theme=tokyo-night&hide_border=true"
-  alt="TONMOY-DEY Contribution Graph"
-  width="95%"
-/>
-
-</p>
-
----
 ## 🐍 Contribution Snake
 
 <p align="center">
